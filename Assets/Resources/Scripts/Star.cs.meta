@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: f7cfff17f3582fd4083970419789cfbd
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - starParticle: {fileID: 2231722997526306587, guid: df1d9ffc81160904ba8e5f0f95f41d41,
+      type: 3}
+  - blackHoll: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

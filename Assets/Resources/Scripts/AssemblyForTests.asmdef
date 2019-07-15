@@ -1,0 +1,16 @@
+{
+    "name": "NewAssembly",
+    "references": [
+        "UniRx",
+        "UniRx.Async",
+        "UniRx.Async.Editor"
+    ],
+    "optionalUnityReferences": [],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": []
+}
